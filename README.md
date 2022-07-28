@@ -1,1 +1,1 @@
-# the project that rembele to netflix
+# the netflix clone
